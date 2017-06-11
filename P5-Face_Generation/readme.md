@@ -7,6 +7,6 @@ Here's the command to launch jupyter through floyd with gpu activated, using flo
 
 data_id is `R5KrjnANiKVhLWAkpXhNBe` in this project.
 
-Use `floyd status` to check the project list.
+Use `floyd status` to check the experiment list.
 
-To stop a project, use `floyd stop RUN_ID`.
+To stop an experiment, use `floyd stop RUN_ID`.
